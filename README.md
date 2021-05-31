@@ -7,4 +7,3 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him/His 
 - ⚡ Goal: So many technologies want to learn, every month.
--->
