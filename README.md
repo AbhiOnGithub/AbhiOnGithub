@@ -27,3 +27,10 @@
    - Elastic Stack (Intermediate) <br/>
 </details>
 
+<details>
+ <summary><strong> Some of Certifications I did </strong></summary>
+   - Microsoft Certified: Azure Solutions Architect Expert 
+   - Microsoft Certified: DevOps Engineer Expert
+   - Microsoft Certified Trainer - M.C.T.
+   - AWS Certified Solutions Architect – Associate
+</details>
