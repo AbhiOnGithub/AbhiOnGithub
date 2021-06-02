@@ -6,4 +6,11 @@
 - 📫 How to reach me: abhishek.msft@outlook.com
 - ⚡ Goal: So many technologies want to learn, every month.
 - 🌐 Website : http://BuildNative.Cloud
-- :india: 
+
+<details>
+ <summary><strong>What I am learning/working these days</strong></summary>
+   - Architecting and Developing Cloud Native Microservices <br/>
+   - Serverless Architecture <br/>
+   - Modular Monolithic <br/>
+   - GoLang , GoORM, FoFiber <br/>
+</details>
