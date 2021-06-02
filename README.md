@@ -25,6 +25,7 @@
    - Terraform, Azure ARM , AWS Cloud Formation <br/>
    - Splunk <br/>
    - Elastic Stack (Intermediate) <br/>
+   - Cross Platform Application Development using Xamarin / MAUI
 </details>
 
 <details>
