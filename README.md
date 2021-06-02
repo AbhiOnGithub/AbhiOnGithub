@@ -16,7 +16,7 @@
 </details>
 
 <details>
- <summary><strong> ( ❛ ͜ʖ ❛ ) 👉 Technologies I know</strong></summary>
+ <summary><strong> ( ⚈ ͜ʖ ⚈ ) 👉 Technologies I know</strong></summary>
    - ☁ Azure and AWS<br/>
    - Docker , Kubernetes, AKS, EKS , Fargate <br/>
    - ASP.net (Expert) , Spring Boot (Intermediate) <br/>
@@ -28,9 +28,9 @@
 </details>
 
 <details>
- <summary><strong> Some of Certifications I did </strong></summary>
-   - Microsoft Certified: Azure Solutions Architect Expert 
-   - Microsoft Certified: DevOps Engineer Expert
-   - Microsoft Certified Trainer - M.C.T.
-   - AWS Certified Solutions Architect – Associate
+ <summary><strong> ( ▀̿ ̿ ͜ʖ ▀̿ ̿  ) 👉 Some of Certifications I did </strong></summary>
+   - Microsoft Certified: Azure Solutions Architect Expert  <br/>
+   - Microsoft Certified: DevOps Engineer Expert <br/>
+   - Microsoft Certified Trainer - M.C.T. <br/>
+   - AWS Certified Solutions Architect – Associate <br/>
 </details>
