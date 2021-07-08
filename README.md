@@ -18,6 +18,7 @@
 <details>
  <summary><strong> ( ⚈ ͜ʖ ⚈ ) 👉 Technologies I know</strong></summary>
    - ☁ Azure and AWS<br/>
+   - IBM Open Shift
    - Docker , Kubernetes, AKS, EKS , Fargate <br/>
    - ASP.net (Expert) , Spring Boot (Intermediate) <br/>
    - GoLang , GoORM, FoFiber <br/>
