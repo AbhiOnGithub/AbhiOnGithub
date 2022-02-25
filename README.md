@@ -1,16 +1,17 @@
 
-- 🔭 I’m currently working in Citrix and helping teams in Citrix's Multi Cloud Journey. ...
-- 👯 I’m looking to collaborate on GoLang based Open Source Projects.
+- 🔭 I’m currently working in Walmart and helping teams in Walmart in Market Intelligence journey. ...
+- 👯 I’m looking to collaborate on GoLang/Rust/C#/Java based Open Source & non-Profit Projects.
 - 💬 Ask me about AWS and Azure based Cloud native application development and architecture.
 - 📫 How to reach me: abhishek@AceTheCloud.com
 - 🌐 Website : http://AceTheCloud.com
 
 <details>
  <summary><strong> ( ❛ ͜ʖ ❛ ) 👉 What I am learning/working these days</strong></summary>
-   - Architecting and Developing Cloud Native Microservices <br/>
+   - Architecting and Developing Distributed Components <br/>
    - Serverless Architecture <br/>
    - Modular Monolithic <br/>
-   - ASP.net , C# <br/>
+   - C# , Java <br/>
+   - Apache Flink , Spark <br/>
    - GoLang , GoORM, FoFiber <br/>
    - Distributed Application Runtime (DAPR) <br/>
 </details>
