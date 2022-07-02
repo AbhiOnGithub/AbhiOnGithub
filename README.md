@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working in Walmart and helping teams in Walmart in Market Intelligence journey. ...
+- 🔭
 - 👯 I’m looking to collaborate on GoLang/Rust/C#/Java based Open Source & non-Profit Projects.
 - 💬 Ask me about AWS and Azure based Cloud native application development and architecture.
 - 📫 How to reach me: abhishek@AceTheCloud.com
