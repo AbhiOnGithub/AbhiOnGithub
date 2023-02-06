@@ -1,5 +1,17 @@
 
-- 🔭
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <div id="badges">
+   <a href="https://www.linkedin.com/in/enterprise-cloud-architect">
+     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   </a>
+   <a href="https://twitter.com/AbhiForTweeting">
+     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+   </a>
+ </div>
+</div>
+
 - 👯 I’m looking to collaborate on GoLang/Rust/C#/Java based Open Source & non-Profit Projects.
 - 💬 Ask me about AWS and Azure based Cloud native application development and architecture.
 - 📫 How to reach me: abhishek@AceTheCloud.com
@@ -38,6 +50,7 @@
    - AWS Certified Solutions Architect – Associate <br/>
 </details>
 
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhiongithub&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiongithub&layout=compact)](https://github.com/abhiongithub/github-readme-stats)
@@ -54,3 +67,4 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=abhiongithub&show_icons=true" />
 </picture>
+</div>
