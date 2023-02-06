@@ -1,6 +1,7 @@
 
 
 <div align="center">
+  Hey there
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <div id="badges">
    <a href="https://www.linkedin.com/in/enterprise-cloud-architect">
@@ -49,8 +50,6 @@
    - Microsoft Certified Trainer - M.C.T. <br/>
    - AWS Certified Solutions Architect – Associate <br/>
 </details>
-
-<div align="center">
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhiongithub&theme=dark&background=000000)](https://git.io/streak-stats)
 
