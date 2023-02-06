@@ -37,3 +37,7 @@
    - Microsoft Certified Trainer - M.C.T. <br/>
    - AWS Certified Solutions Architect – Associate <br/>
 </details>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhiongithub&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiongithub&layout=compact)](https://github.com/abhiongithub/github-readme-stats)
