@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  Hey there
+  <div>Hey there 👋 <div>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <div id="badges">
    <a href="https://www.linkedin.com/in/enterprise-cloud-architect">
