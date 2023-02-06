@@ -13,6 +13,23 @@
  </div>
 </div>
 
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhiongithub&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiongithub&layout=compact)](https://github.com/abhiongithub/github-readme-stats)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=abhiongithub&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=abhiongithub&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhiongithub&show_icons=true" />
+</picture>
+</div>
+
 - 👯 I’m looking to collaborate on GoLang/Rust/C#/Java based Open Source & non-Profit Projects.
 - 💬 Ask me about AWS and Azure based Cloud native application development and architecture.
 - 📫 How to reach me: abhishek@AceTheCloud.com
@@ -50,22 +67,3 @@
    - Microsoft Certified Trainer - M.C.T. <br/>
    - AWS Certified Solutions Architect – Associate <br/>
 </details>
-  
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhiongithub&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiongithub&layout=compact)](https://github.com/abhiongithub/github-readme-stats)
-
-
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=abhiongithub&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=abhiongithub&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=abhiongithub&show_icons=true" />
-</picture>
-  
-</div>
