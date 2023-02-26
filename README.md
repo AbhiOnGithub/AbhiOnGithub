@@ -37,13 +37,13 @@
 - 🌐 Website : http://AceTheCloud.com
 
 <details>
- <summary><strong> ( ❛ ͜ʖ ❛ ) 👉 What I am learning/working these days</strong></summary>
+ <summary><strong> ( ❛ ͜ʖ ❛ ) 👉 What technologies I am actively using in 2023</strong></summary>
    - Architecting and Developing Distributed Components <br/>
    - Serverless Architecture <br/>
    - Modular Monolithic <br/>
-   - C# , Java <br/>
+   - C# and .NET 7, Java, GoLang , React <br/>
    - Apache Flink , Spark <br/>
-   - GoLang , GoORM, FoFiber <br/>
+   - GoLang , GoORM, FoFiber, Go Chi, Go Mux <br/>
    - Distributed Application Runtime (DAPR) <br/>
 </details>
 
