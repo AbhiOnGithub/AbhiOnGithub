@@ -32,7 +32,6 @@
 <div>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href="https://AceTheCloud.com" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
@@ -47,8 +46,6 @@
 <div>
 - 👯 I’m looking to collaborate on GoLang/Rust/C#/Java based Open Source & non-Profit Projects.
 - 💬 Ask me about AWS and Azure based Cloud native application development and architecture.
-- 📫 How to reach me: abhishek@AceTheCloud.com
-- 🌐 Website : http://AceTheCloud.com
 
 <details>
  <summary><strong> ( ❛ ͜ʖ ❛ ) 👉 What technologies I am actively using in 2023</strong></summary>
@@ -57,6 +54,7 @@
    - Modular Monolithic <br/>
    - C# and .NET 7, Java, GoLang , React <br/>
    - Apache Flink , Spark <br/>
+   - RUST and Cargo <br/>
    - GoLang , GoORM, FoFiber, Go Chi, Go Mux <br/>
    - Distributed Application Runtime (DAPR) <br/>
 </details>
@@ -76,10 +74,4 @@
 </details>
 
 <details>
- <summary><strong> ( ▀̿ ̿ ͜ʖ ▀̿ ̿  ) 👉 Some of Certifications I did </strong></summary>
-   - Microsoft Certified: Azure Solutions Architect Expert  <br/>
-   - Microsoft Certified: DevOps Engineer Expert <br/>
-   - Microsoft Certified Trainer - M.C.T. <br/>
-   - AWS Certified Solutions Architect – Associate <br/>
-</details>
 <div>
