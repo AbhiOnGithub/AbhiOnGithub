@@ -1,7 +1,8 @@
-
-
 <div align="center">
-  <div>Hey there 👋 <div>
+  <div>
+    <h2>Hey there 👋 I'm Abhishek</h2>
+    <p><em>Obsessed with making models go brrr — from training to real-time inference at scale</em></p>
+  </div>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
   <div id="badges">
    <a href="https://www.linkedin.com/in/enterprise-cloud-architect">
@@ -10,13 +11,26 @@
    <a href="https://twitter.com/AbhiForTweeting">
      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a>
- </div>
+  </div>
 </div>
 
-  
+---
+
+### ⚡ About Me
+
+- 🔥 I live and breathe **AI Inference** — optimizing models to run faster, cheaper, and at massive scale
+- 🧠 Deep in the **NVIDIA inference stack**: TensorRT, Triton Inference Server, CUDA, TensorRT-LLM, and NIM
+- 🚀 Passionate about squeezing every last TFLOP out of GPUs — from A100s to H100s to Blackwell
+- 🏗️ Building and scaling **inference pipelines** that serve millions of requests with minimal latency
+- 🌐 Background in cloud-native architecture across **AWS, Azure, and GCP** — now laser-focused on GPU-accelerated inference infrastructure
+- 🤝 Open to collaborating on **open-source inference tooling**, model optimization, and high-performance serving systems
+
+---
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abhiongithub&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiongithub&layout=compact)](https://github.com/abhiongithub/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiongithub&layout=compact&theme=dark)](https://github.com/abhiongithub/github-readme-stats)
+
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=abhiongithub&show_icons=true&theme=dark"
@@ -28,50 +42,76 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=abhiongithub&show_icons=true" />
 </picture>
-</div>
-<div>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-</a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" width="60" height="50"/>  
-</a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-</div>  
+---
 
-<div>
-- 👯 I’m looking to collaborate on GoLang/Rust/C#/Java based Open Source & non-Profit Projects.
-- 💬 Ask me about AWS and Azure based Cloud native application development and architecture.
+<h3 align="left">🛠️ Inference & AI Stack:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/NVIDIA-TensorRT-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="TensorRT"/>
+  <img src="https://img.shields.io/badge/NVIDIA-Triton-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Triton"/>
+  <img src="https://img.shields.io/badge/NVIDIA-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA"/>
+  <img src="https://img.shields.io/badge/NVIDIA-TensorRT--LLM-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="TensorRT-LLM"/>
+  <img src="https://img.shields.io/badge/NVIDIA-NIM-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="NIM"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/vLLM-FF6F00?style=flat-square" alt="vLLM"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+</p>
+
+<h3 align="left">☁️ Cloud & Infra:</h3>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
+
+---
+
+- 💬 Ask me about **GPU-accelerated inference**, model optimization, batching strategies, and scaling LLM serving
+- 👯 Looking to collaborate on **inference engines, model compilers, and open-source AI infrastructure**
 
 <details>
- <summary><strong> ( ❛ ͜ʖ ❛ ) 👉 What technologies I am actively using in 2023</strong></summary>
-   - Architecting and Developing Distributed Components <br/>
-   - Serverless Architecture <br/>
-   - Modular Monolithic <br/>
-   - C# and .NET 7, Java, GoLang , React <br/>
-   - Apache Flink , Spark <br/>
-   - RUST and Cargo <br/>
-   - GoLang , GoORM, FoFiber, Go Chi, Go Mux <br/>
-   - Distributed Application Runtime (DAPR) <br/>
+ <summary><strong>⚡ What I'm focused on in 2025–2026</strong></summary>
+   <br/>
+   - Optimizing <strong>LLM inference</strong> — KV-cache management, speculative decoding, continuous batching<br/>
+   - <strong>TensorRT-LLM</strong> and <strong>TensorRT</strong> for maximum throughput on NVIDIA GPUs<br/>
+   - <strong>Triton Inference Server</strong> — model ensembles, dynamic batching, multi-GPU serving<br/>
+   - <strong>NVIDIA NIM</strong> microservices for production-grade AI deployment<br/>
+   - <strong>CUDA</strong> kernel optimization and custom inference operators<br/>
+   - <strong>vLLM</strong>, <strong>SGLang</strong>, and other open-source LLM serving frameworks<br/>
+   - Multi-node inference on <strong>H100 / Blackwell</strong> clusters with NVLink & NVSwitch<br/>
+   - <strong>Quantization</strong> (FP8, INT4, AWQ, GPTQ) for efficient model deployment<br/>
+   - Go, Rust, and C++ for high-performance inference infrastructure<br/>
 </details>
 
 <details>
- <summary><strong> ( ⚈ ͜ʖ ⚈ ) 👉 Technologies I know</strong></summary>
-   - ☁ Azure and AWS<br/>
-   - IBM Open Shift <br/>
-   - Docker , Kubernetes, AKS, EKS , Fargate <br/>
-   - ASP.net (Expert) , Spring Boot (Intermediate) <br/>
-   - GoLang , GoORM, FoFiber <br/>
-   - Distributed Application Runtime (DAPR) <br/>
-   - Terraform, Azure ARM , AWS Cloud Formation <br/>
-   - Splunk <br/>
-   - Elastic Stack (Intermediate) <br/>
-   - Cross Platform Application Development using Xamarin / MAUI
+ <summary><strong>🧠 Technologies I know</strong></summary>
+   <br/>
+   - <strong>Inference:</strong> TensorRT, TensorRT-LLM, Triton Inference Server, NVIDIA NIM, vLLM, ONNX Runtime<br/>
+   - <strong>GPU/Compute:</strong> CUDA, cuDNN, NCCL, NVLink, Multi-Instance GPU (MIG)<br/>
+   - <strong>ML Frameworks:</strong> PyTorch, JAX, ONNX<br/>
+   - <strong>Cloud:</strong> AWS (SageMaker, EKS, EC2 P/G instances), Azure (AKS, NC/ND VMs), GCP (GKE, A3/A2 VMs)<br/>
+   - <strong>Containers & Orchestration:</strong> Docker, Kubernetes, Helm, NVIDIA GPU Operator<br/>
+   - <strong>Languages:</strong> Python, C++, Go, Rust, C#, Java<br/>
+   - <strong>IaC:</strong> Terraform, Pulumi, AWS CloudFormation, Azure ARM<br/>
+   - <strong>Monitoring:</strong> Prometheus, Grafana, Splunk, Elastic Stack<br/>
+   - <strong>Streaming:</strong> Apache Kafka, Apache Flink, Spark Streaming<br/>
 </details>
 
 <details>
-<div>
+ <summary><strong>📚 Previously</strong></summary>
+   <br/>
+   - Cloud-native architecture and distributed systems across AWS & Azure<br/>
+   - Serverless and modular monolithic architectures<br/>
+   - Full-stack development with C#/.NET, Java/Spring Boot, React<br/>
+   - GoLang microservices (GoORM, Fiber, Chi, Mux)<br/>
+   - Distributed Application Runtime (DAPR)<br/>
+   - Cross-platform development with Xamarin/MAUI<br/>
+</details>
